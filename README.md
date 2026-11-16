@@ -1,1 +1,1 @@
-ตัวอย่างเว็บที่ใช้โค้ด https://www.geeksforgeeks.org/system-design/iterator-pattern/ 
+ตัวอย่างเว็บที่เอาโค้ดมาใช้ https://www.geeksforgeeks.org/system-design/iterator-pattern/ 
